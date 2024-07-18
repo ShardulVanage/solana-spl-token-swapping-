@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.4.8",
+    "@solana/spl-token-swap": "^0.4.3",
+    "@solana/web3.js": "^1.95.1",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.11"
+  }
+}
